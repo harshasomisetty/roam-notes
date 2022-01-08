@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Harsha's Roam Notes"
+theme = "cortex"

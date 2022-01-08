@@ -1,0 +1,5 @@
+* My Roam-notes website
+
+Website to track all my org-roam notes
+
+copied Jethro's [[https://github.com/jethrokuan/cortex][cortex theme]] and basically his workflow
